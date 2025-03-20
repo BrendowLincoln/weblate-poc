@@ -1,0 +1,26 @@
+{
+    "welcome_message": {
+        "defaultMessage": "¡Bienvenido a nuestra plataforma!",
+        "description": "Mensaje de bienvenida mostrado en la página de inicio"
+    },
+    "login": {
+        "defaultMessage": "Iniciar sesión",
+        "description": "Botón para iniciar sesión"
+    },
+    "logout": {
+        "defaultMessage": "Cerrar sesión",
+        "description": "Botón para cerrar sesión"
+    },
+    "signup": {
+        "defaultMessage": "Registrarse",
+        "description": "Botón para registrar un nuevo usuario"
+    },
+    "language": {
+        "defaultMessage": "Idioma",
+        "description": "Etiqueta para la selección de idioma"
+    },
+    "error_message": {
+        "defaultMessage": "Ha ocurrido un error, por favor intente nuevamente.",
+        "description": "Mensaje de error genérico mostrado a los usuarios"
+    }
+}
