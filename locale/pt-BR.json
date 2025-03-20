@@ -1,0 +1,8 @@
+{
+    "welcome_message": "Bem-vindo à nossa plataforma!",
+    "login": "Entrar",
+    "logout": "Sair",
+    "signup": "Cadastrar-se",
+    "language": "Idioma",
+    "error_message": "Ocorreu um erro, tente novamente."
+}
