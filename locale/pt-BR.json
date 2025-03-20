@@ -1,8 +1,26 @@
 {
-    "welcome_message": "Bem-vindo à nossa plataforma!",
-    "login": "Entrar",
-    "logout": "Sair",
-    "signup": "Cadastrar-se",
-    "language": "Idioma",
-    "error_message": "Ocorreu um erro, tente novamente."
+    "welcome_message": {
+        "defaultMessage": "Bem-vindo à nossa plataforma!",
+        "description": "Mensagem de boas-vindas exibida na tela inicial"
+    },
+    "login": {
+        "defaultMessage": "Entrar",
+        "description": "Botão para login"
+    },
+    "logout": {
+        "defaultMessage": "Sair",
+        "description": "Botão para logout"
+    },
+    "signup": {
+        "defaultMessage": "Cadastrar-se",
+        "description": "Botão para cadastro de usuário"
+    },
+    "language": {
+        "defaultMessage": "Idioma",
+        "description": "Opção para trocar de idioma"
+    },
+    "error_message": {
+        "defaultMessage": "Ocorreu um erro, tente novamente.",
+        "description": "Mensagem de erro genérica"
+    }
 }
